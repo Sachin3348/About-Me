@@ -5,6 +5,7 @@
     This is me <b>Sachin Mahto</b>, a <b>Software Developer</b> with 2.5 years of experience.
     I'm a motivated, hard-working and work-oriented person who finds joy in new challenges and keep an eye out for them everyday. Ability to work well as a team member and exceptional work ethic. Desire to work in a professionally enriched environment for a challenging position utilizing creativity and a true desire to actively contribute which may enrich my skills and provide new horizons of excellence and personal development.
 I'm quite confident with Javascript, ES6, NodeJs, ExpressJs, Next Js, React Js, React Native, AWS EC2, AWS S3, Docker and related technologies. Other than that I try to learn new techs everyday to grow my arsenal.
+    <br/>
   <b><i>"---Always Work Hard and Trust the Process---"</i></b>
 </p>
 
